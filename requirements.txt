@@ -1,0 +1,4 @@
+-i https://artifactory.dhl.com/api/pypi/pypi/simple
+fastapi==0.98.0
+uvicorn==0.22.0
+sentry-sdk[fastapi]
